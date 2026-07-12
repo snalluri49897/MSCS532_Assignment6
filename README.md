@@ -1,11 +1,5 @@
 # Assignment 6: Medians and Order Statistics & Elementary Data Structures
 
-## Files
-
-- `part1_selection_algorithms.py` — randomized quickselect + deterministic median-of-medians, with correctness tests and an empirical timing comparison
-- `part2_elementary_data_structures.py` — stack, queue, singly linked list, doubly linked list, with sanity tests
-- `report.md` — full write-up: complexity analysis and discussion of results
-
 ## How to Run
 
 From the folder containing the files:
